@@ -1,4 +1,4 @@
-Sistema para Cadastro de clientes.
+Sistema para Cadastro de clientes.<h1>
 
 
 Funcionalidades:
@@ -7,7 +7,7 @@ Com este sistema sera possivel realizar o cadastro de Cliente Pessoa Física e P
 
 
 
-Tecnologias Utilizadas:
+Tecnologias Utilizadas:<h1>
 
 Para o desenvolvimento do projeto foram utilizadas as tecnologias 
 
