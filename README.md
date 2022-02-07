@@ -11,11 +11,11 @@
 
 * Para o desenvolvimento do projeto foram utilizadas as tecnologias 
 
-* .NET
+* ![texto alt](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white ".NET") .NET
 
-* VSCode
+* ![texto alt](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg "VSCode") VSCode
 
-* GitHub
+* ![texto alt](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white "GitHub") GitHub
 
 
 
