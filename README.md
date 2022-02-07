@@ -1,70 +1,70 @@
-Sistema para Cadastro de clientes.<h1>
+# Sistema para Cadastro de clientes.<h1>
 
 
-Funcionalidades:
+### Funcionalidades: <h3>
 
-Com este sistema sera possivel realizar o cadastro de Cliente Pessoa Física e Pessoa Jurídica, listar e excluir os dados dos mesmos.
-
-
-
-Tecnologias Utilizadas:<h1>
-
-Para o desenvolvimento do projeto foram utilizadas as tecnologias 
-
-.NET
-
-VSCode
-
-GitHub
+* Com este sistema sera possivel realizar o cadastro de Cliente Pessoa Física e Pessoa Jurídica, listar e excluir os dados dos mesmos.
 
 
 
-Organização do projeto:
+### Tecnologias Utilizadas:<h3>
 
-Durante todo o periodo de desenvolvimento o acompanhamento foi realizado pela plataforma Trello.com
+* Para o desenvolvimento do projeto foram utilizadas as tecnologias 
 
+* .NET
 
+* VSCode
 
-Pré-requisitos de instalação:
-
-Ter ou baixar em sua maquina o GitHub
-
-Ter ou baixar em sua maquina o VSCode
-
-Ter ou Registar uma conta no github.com
+* GitHub
 
 
 
-Execução da aplicação:
+### Organização do projeto:<h3>
 
-Execute o GitHub
-
-Faça a clonagem do Projeto : https://github.com/rafaelscharam/EncontroRemoto8CSV
-
-Execute o VSCode
-
-Abra o projeto
-
-Execute um novo terminal 
-
-Realize o seguinte comando dotnet run
+* Durante todo o periodo de desenvolvimento o acompanhamento foi realizado pela plataforma Trello.com
 
 
 
-Erros comuns:
+### Pré-requisitos de instalação:<h3>
 
-Instalação incorreta dos programas
+* Ter ou baixar em sua maquina o GitHub
 
-Erro durante a clonagem
+* Ter ou baixar em sua maquina o VSCode
 
-Durante a execução do programa não seguir corretamente o modelo come deve-se digitar os dados do cliente
+* Ter ou Registar uma conta no github.com
 
 
 
-Contribuidores
+### Execução da aplicação:<h3>
 
-Rafael Scharam : https://github.com/rafaelscharam 
+* Execute o GitHub
 
-Odirlei Assis : https://github.com/odirlei-assis
+* Faça a clonagem do Projeto : https://github.com/rafaelscharam/EncontroRemoto8CSV
 
-Thiago Nascimento : https://github.com/Thiago-Nascimento
+* Execute o VSCode
+
+* Abra o projeto
+
+* Execute um novo terminal 
+
+* Realize o seguinte comando dotnet run
+
+
+
+### Erros comuns:<h3>
+
+* Instalação incorreta dos programas
+
+* Erro durante a clonagem
+
+* Durante a execução do programa não seguir corretamente o modelo come deve-se digitar os dados do cliente
+
+
+
+### Contribuidores<h3>
+
+* Rafael Scharam : https://github.com/rafaelscharam 
+
+* Odirlei Assis : https://github.com/odirlei-assis
+
+* Thiago Nascimento : https://github.com/Thiago-Nascimento
